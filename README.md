@@ -13,7 +13,7 @@ As one can see Superglu match not all keypoints.
 Lines from top left corner correspond to matches of parts of birds which are not present on the picture.
 
 **Superglue**
-![Superglue](./images/superglu.pn)
+![Superglue](./images/superglu.png)
 
 Our results are much better
 **With attention**
