@@ -6,4 +6,15 @@ Google drive with the dataset, embeddings and adjacency matrices https://drive.g
 
 The resulting matches are illustrated here:
 
+**Ground truth match**
 ![Ground truth match](./images/gt.png)
+
+**Superglue**
+![Superglue](./images/gt.pn)
+
+**Ground truth match**
+![Ground truth match](./images/gt.png)
+
+**Ground truth match**
+![Ground truth match](./images/gt.png)
+
