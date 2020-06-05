@@ -8,7 +8,7 @@ The directory preprocessing contains necessary notebooks for preprocessing the d
 
 Names of the notebooks roughly correspond to their purpose (train, baselines, model).
 
-There are additional notebooks from the Superglue paper, which was modified in order to satisfy our settings.
+There are additional notebooks from the Superglue paper, which was modified in order to satisfy our settings. We included only modified notebooks, in order to run Superglue one should clone https://github.com/magicleap/SuperGluePretrainedNetwork and replace modified notebooks.
 
 The resulting matches are illustrated here:
 
